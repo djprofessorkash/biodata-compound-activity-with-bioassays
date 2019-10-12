@@ -5,7 +5,8 @@
 <a href="https://docs.python.org/3/index.html"><img src="https://img.shields.io/badge/python-3.6-blue.svg"/></a>
 <a href="https://github.com/AakashSudhakar/biodata-compound-activity-with-bioassays/commits/master"><img src="https://img.shields.io/github/last-commit/AakashSudhakar/biodata-compound-activity-with-bioassays.svg?style=flat"/></a>
 <a href="https://github.com/AakashSudhakar/biodata-compound-activity-with-bioassays"><img src="https://img.shields.io/github/repo-size/AakashSudhakar/biodata-compound-activity-with-bioassays.svg?style=flat"/></a>
-<a href="https://github.com/AakashSudhakar/biodata-compound-activity-with-bioassays/releases"><img src="https://img.shields.io/github/release/AakashSudhakar/biodata-compound-activity-with-bioassays.svg?style=flat"/></a>
+<a href="https://github.com/AakashSudhakar"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
+</p>
 
 
 ---
