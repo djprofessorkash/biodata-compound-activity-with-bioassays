@@ -3,6 +3,8 @@
 */.DS_Store
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
+*.pyc
+*/*.pyc
 
 # Raw datasets (pending)
 datasets/external/bioassay-datasets*
